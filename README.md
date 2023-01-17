@@ -1,1 +1,1 @@
-## Sistem Login dan Register Framework Laravel versi 6 dengan template SB Admin 2
+## Sistem Login dan Register Framework Laravel dengan template SB Admin 2
