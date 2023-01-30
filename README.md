@@ -2,4 +2,4 @@
 
 
 ## Server Requirements
-PHP >= 7.3
+PHP >= 8.0.2
